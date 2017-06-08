@@ -1,2 +1,3 @@
 # hello-world
-Chia Test Repository 1
+
+Hello earthlings!  The time is now 10:05 AM.  
